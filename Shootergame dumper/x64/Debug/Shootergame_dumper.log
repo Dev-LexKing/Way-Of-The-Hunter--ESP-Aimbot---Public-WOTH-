@@ -1,0 +1,4 @@
+﻿  DLLEntry.cpp
+C:\Users\rivers\Documents\Hacking\Game\shootergame-Hack-master\Shootergame dumper\dump_offsets.h(50,15): warning C4101: 'propertyName': unreferenced local variable
+C:\Users\rivers\Documents\Hacking\Game\shootergame-Hack-master\Shootergame dumper\dump_offsets.h(85,11): warning C4101: 'objName': unreferenced local variable
+  Shootergame_dumper.vcxproj -> C:\Users\rivers\Documents\Hacking\Game\shootergame-Hack-master\x64\Debug\shootergame Dumper.dll
